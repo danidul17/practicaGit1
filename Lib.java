@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * @author Daniela Lopez
  */
 
 public class Lib {
